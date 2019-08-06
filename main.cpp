@@ -3,7 +3,6 @@
 #include <numeric>
 #include <random>
 #include <range/v3/all.hpp>
-#include <fmt/core.h>
 #include <iostream>
 #include <string>
 #include <map>
